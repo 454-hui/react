@@ -1,0 +1,35 @@
+.main{
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 100px;
+    }
+.spandiv{
+    display: block;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.context{
+    font-size: 18px;
+    text-align: center;
+}
+.context input:nth-of-type(1){
+    margin-top: 20px;
+}
+.context input{
+    padding: 6px;
+    border: 1px solid #e7e7e7;
+    border-radius: 5px;
+    font-size:14px;
+    width: 500px;
+    margin-bottom: 40px;
+}
+.context input:focus{
+    outline: none;
+}
+.context .setadd{
+    margin-right: 12px;
+    background-color: #1890ff;
+    color: #ffffff;
+}

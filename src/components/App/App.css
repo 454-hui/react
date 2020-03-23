@@ -1,0 +1,26 @@
+.search{
+    margin-top : 40px;
+    margin-left: 40px;
+    margin-bottom: 15px;
+}
+.reset{
+    position: relative;
+    top: 44px;
+    margin-left: 10px;
+}
+.Loading{
+   position: absolute;
+   left: 45%;
+   top: 45%;
+}
+.set_button{
+    display: inline-block;
+    position: relative;
+    top: 44px;
+    margin-left: 10px;
+}
+.set_data{
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
